@@ -1,4 +1,4 @@
-from encoder.encoder import Encoder
+from src.encoder.encoder import Encoder
 
 
 class BinaryArithmeticEncoder(Encoder):

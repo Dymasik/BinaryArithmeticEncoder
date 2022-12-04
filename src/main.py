@@ -1,5 +1,5 @@
 from argparse import ArgumentParser
-from encoder.binary_arithmetic_encoder import BinaryArithmeticEncoder
+from src.encoder.binary_arithmetic_encoder import BinaryArithmeticEncoder
 
 
 if __name__ == "__main__":

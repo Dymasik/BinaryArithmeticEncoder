@@ -3,4 +3,5 @@ Include/
 Lib/
 Scripts/
 .venv/
+htmlcov/
 **/__pycache__/
